@@ -1,0 +1,10 @@
+C:\Users\ACER\source\repos\kalkulator_andikapurnama\kalkulator_andikapurnama\bin\Debug\kalkulator_andikapurnama.exe.config
+C:\Users\ACER\source\repos\kalkulator_andikapurnama\kalkulator_andikapurnama\bin\Debug\kalkulator_andikapurnama.exe
+C:\Users\ACER\source\repos\kalkulator_andikapurnama\kalkulator_andikapurnama\bin\Debug\kalkulator_andikapurnama.pdb
+C:\Users\ACER\source\repos\kalkulator_andikapurnama\kalkulator_andikapurnama\obj\Debug\kalkulator_andikapurnama.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\kalkulator_andikapurnama\kalkulator_andikapurnama\obj\Debug\kalkulator_andikapurnama.Form1.resources
+C:\Users\ACER\source\repos\kalkulator_andikapurnama\kalkulator_andikapurnama\obj\Debug\kalkulator_andikapurnama.Properties.Resources.resources
+C:\Users\ACER\source\repos\kalkulator_andikapurnama\kalkulator_andikapurnama\obj\Debug\kalkulator_andikapurnama.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\kalkulator_andikapurnama\kalkulator_andikapurnama\obj\Debug\kalkulator_andikapurnama.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\kalkulator_andikapurnama\kalkulator_andikapurnama\obj\Debug\kalkulator_andikapurnama.exe
+C:\Users\ACER\source\repos\kalkulator_andikapurnama\kalkulator_andikapurnama\obj\Debug\kalkulator_andikapurnama.pdb
